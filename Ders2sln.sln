@@ -15,6 +15,12 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Matematik", "Matematik\Mate
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DegerVeReferansTipler", "DegerVeReferansTipler\DegerVeReferansTipler.csproj", "{895FA531-71E1-4F4F-B861-063C3FFF3761}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP1", "OOP1\OOP1.csproj", "{89ABE60B-2C27-42B9-B278-15E331DB89FC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Koleksiyonlar", "Koleksiyonlar\Koleksiyonlar.csproj", "{AFE983FE-F59E-4C4A-B80A-9381A82E6CDE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericsIntro", "GenericsIntro\GenericsIntro.csproj", "{2493CE62-2015-4407-8A7E-F55B0D8F091E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -97,6 +103,42 @@ Global
 		{895FA531-71E1-4F4F-B861-063C3FFF3761}.Release|x64.Build.0 = Release|Any CPU
 		{895FA531-71E1-4F4F-B861-063C3FFF3761}.Release|x86.ActiveCfg = Release|Any CPU
 		{895FA531-71E1-4F4F-B861-063C3FFF3761}.Release|x86.Build.0 = Release|Any CPU
+		{89ABE60B-2C27-42B9-B278-15E331DB89FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89ABE60B-2C27-42B9-B278-15E331DB89FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89ABE60B-2C27-42B9-B278-15E331DB89FC}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{89ABE60B-2C27-42B9-B278-15E331DB89FC}.Debug|x64.Build.0 = Debug|Any CPU
+		{89ABE60B-2C27-42B9-B278-15E331DB89FC}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{89ABE60B-2C27-42B9-B278-15E331DB89FC}.Debug|x86.Build.0 = Debug|Any CPU
+		{89ABE60B-2C27-42B9-B278-15E331DB89FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89ABE60B-2C27-42B9-B278-15E331DB89FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{89ABE60B-2C27-42B9-B278-15E331DB89FC}.Release|x64.ActiveCfg = Release|Any CPU
+		{89ABE60B-2C27-42B9-B278-15E331DB89FC}.Release|x64.Build.0 = Release|Any CPU
+		{89ABE60B-2C27-42B9-B278-15E331DB89FC}.Release|x86.ActiveCfg = Release|Any CPU
+		{89ABE60B-2C27-42B9-B278-15E331DB89FC}.Release|x86.Build.0 = Release|Any CPU
+		{AFE983FE-F59E-4C4A-B80A-9381A82E6CDE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFE983FE-F59E-4C4A-B80A-9381A82E6CDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFE983FE-F59E-4C4A-B80A-9381A82E6CDE}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{AFE983FE-F59E-4C4A-B80A-9381A82E6CDE}.Debug|x64.Build.0 = Debug|Any CPU
+		{AFE983FE-F59E-4C4A-B80A-9381A82E6CDE}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{AFE983FE-F59E-4C4A-B80A-9381A82E6CDE}.Debug|x86.Build.0 = Debug|Any CPU
+		{AFE983FE-F59E-4C4A-B80A-9381A82E6CDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFE983FE-F59E-4C4A-B80A-9381A82E6CDE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AFE983FE-F59E-4C4A-B80A-9381A82E6CDE}.Release|x64.ActiveCfg = Release|Any CPU
+		{AFE983FE-F59E-4C4A-B80A-9381A82E6CDE}.Release|x64.Build.0 = Release|Any CPU
+		{AFE983FE-F59E-4C4A-B80A-9381A82E6CDE}.Release|x86.ActiveCfg = Release|Any CPU
+		{AFE983FE-F59E-4C4A-B80A-9381A82E6CDE}.Release|x86.Build.0 = Release|Any CPU
+		{2493CE62-2015-4407-8A7E-F55B0D8F091E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2493CE62-2015-4407-8A7E-F55B0D8F091E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2493CE62-2015-4407-8A7E-F55B0D8F091E}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{2493CE62-2015-4407-8A7E-F55B0D8F091E}.Debug|x64.Build.0 = Debug|Any CPU
+		{2493CE62-2015-4407-8A7E-F55B0D8F091E}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{2493CE62-2015-4407-8A7E-F55B0D8F091E}.Debug|x86.Build.0 = Debug|Any CPU
+		{2493CE62-2015-4407-8A7E-F55B0D8F091E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2493CE62-2015-4407-8A7E-F55B0D8F091E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2493CE62-2015-4407-8A7E-F55B0D8F091E}.Release|x64.ActiveCfg = Release|Any CPU
+		{2493CE62-2015-4407-8A7E-F55B0D8F091E}.Release|x64.Build.0 = Release|Any CPU
+		{2493CE62-2015-4407-8A7E-F55B0D8F091E}.Release|x86.ActiveCfg = Release|Any CPU
+		{2493CE62-2015-4407-8A7E-F55B0D8F091E}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
