@@ -4,6 +4,8 @@ class Program
 {
     static void Main(string[] args)
     {
-        MyList<string> myList = new MyList<string>();
+        MyList<string> isimler = new MyList<string>();
+        isimler.Add("Ömer");
+
     }
 }
