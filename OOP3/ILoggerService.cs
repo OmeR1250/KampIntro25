@@ -5,8 +5,8 @@ using System.Threading.Tasks;
 
 namespace OOP3
 {
-    public class MortgageManager
+    public interface ILoggerService
     {
-        
+        void Log();
     }
 }

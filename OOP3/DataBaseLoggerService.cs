@@ -5,14 +5,11 @@ using System.Threading.Tasks;
 
 namespace OOP3
 {
-    public class CreditManager
+    public class DataBaseLoggerService : ILoggerService
     {
-        public void Calculate()
+        public void Log()
         {
-            if (true)
-            {
-                
-            }
+            Console.WriteLine("Veritabanına loglandı");
         }
     }
 }
