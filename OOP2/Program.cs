@@ -32,6 +32,9 @@ class Program
     CustomerManager customerManager = new CustomerManager();
     customerManager.Add(customer1);
     customerManager.Add(customer2);
+    
+    
+
 
 }
 }
